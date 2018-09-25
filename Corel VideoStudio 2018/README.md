@@ -33,3 +33,7 @@
 郑杰同学：www.intosun.cn
 
 懒得勤快：www.masuit.com
+
+### 捐赠支持
+
+![](https://github.com/CrackGroup/Corel-VideoStudio/blob/img/%E7%AB%99%E9%95%BF%E6%8D%90%E8%B5%A0%EF%BC%88%E6%94%AF%E4%BB%98%E5%AE%9D%EF%BC%89.png?raw=true)
