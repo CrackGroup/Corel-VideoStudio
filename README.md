@@ -8,11 +8,11 @@
 
 ### 温馨提示
 
-````````
-项目库内的Corel VideoStudio 2018为直装破解版，安装即激活与汉化。
-GitHub的下载链接，切勿用迅雷进行下载，推荐使用Internet Download Manager、Free Download Manager、EagleGet。
-下载后请双击下载文件中的 .exe 文件进行自解压，自解压完成后进入解压文件夹寻找安装程序进行安装（此机制是为规避GitHub无法上传100MB以上的文件）。
-````````
+> 项目库内的Corel VideoStudio 2018为直装破解版，安装即激活与汉化。
+>
+> GitHub的下载链接，切勿用迅雷进行下载，推荐使用Internet Download Manager、Free Download Manager、EagleGet。
+>
+> 下载后请双击下载文件中的 .exe 文件进行自解压，自解压完成后进入解压文件夹寻找安装程序进行安装（此机制是为规避GitHub无法上传100MB以上的文件）。
 
 ### 联系方式
 
