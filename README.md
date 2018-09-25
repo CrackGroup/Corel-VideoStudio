@@ -1,1 +1,0 @@
-# Corel-VideoStudio
